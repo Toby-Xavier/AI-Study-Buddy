@@ -4,12 +4,12 @@
 A Streamlit web application that creates an AI-powered study assistant using Azure OpenAI. The app has a clean chat interface where users can ask questions and get help with exam preparation.
 
 ## Features
-- 🤖 AI-powered study assistant using Azure OpenAI
-- 💬 Clean chat interface with message bubbles
-- ⏰ Timestamps for all messages
-- 🎨 Custom CSS styling for WhatsApp-like appearance
-- 💾 Persistent chat history during session
-- 🔄 Real-time message display
+- AI-powered study assistant using Azure OpenAI
+- Clean chat interface with message bubbles
+- Timestamps for all messages
+- Custom CSS styling for WhatsApp-like appearance
+- Persistent chat history during session
+- Real-time message display
 
 ## Prerequisites
 - Python 3.7+
@@ -59,10 +59,6 @@ streamlit run study_buddy.py
 - Modify system prompt to change AI behavior
 - Adjust CSS styles for different appearance
 - Change page title and icon in set_page_config
-
-## File Structure
-study_buddy.py      # Main application file
-README.txt          # This documentation
 
 ## Troubleshooting
 
